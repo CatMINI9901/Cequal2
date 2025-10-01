@@ -1,0 +1,15 @@
+msg="Hello, World!"
+print msg
+
+x=2
+y=x+3
+print y
+
+x=15
+result = x>10 -> "でかい" | "ちっさい"
+print result
+
+i=0->3
+print i
+
+C=2
